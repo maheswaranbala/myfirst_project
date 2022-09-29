@@ -3,4 +3,9 @@ b=20
 c=a+b
 
 Print("C")
+sf
+safsfaS
 
+AFSASFAS
+
+SAFDSA
